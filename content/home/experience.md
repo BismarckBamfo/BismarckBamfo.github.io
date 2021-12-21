@@ -22,25 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 
+  - title: NATURAL LANGUAGE PROCESSiNG, INTERN
     company: Connected Devices Lab
     company_url: 'https://connecteddeviceslab.org/'
-    company_logo: org-gc
+    company_logo: 
     location: Kumasi, Ghana
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * I worked on building machine translation models for some Ghanaian Languages(mainly Twi, which is the most popular one).
+        * I built a parallel corpus of Twi‑English translations by scraping websites.
+        * I built machine learning pipelines for easy training and evaluation of models.
+        * I designed, trained and evaluated baseline translation models on the dataset.
         
   - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
+    company: Connected Devices Lab
+    company_url: 'https://connecteddeviceslab.org/'
+    company_logo: 
+    location: Kumasi, Ghana
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
