@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bismarck Bamfo ODoom
+title: Bismarck Bamfo Odoom
 
 # Is this the primary user of the site?
 superuser: true
