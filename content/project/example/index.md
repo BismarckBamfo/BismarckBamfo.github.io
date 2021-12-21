@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Neural Machine Translation on Scene Text
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
