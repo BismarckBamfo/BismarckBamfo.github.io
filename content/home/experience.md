@@ -49,7 +49,7 @@ experience:
         * I built a parallel corpus of Twi‑English translations by scraping websites.
         * I built machine learning pipelines for easy training and evaluation of models.
         * I designed, trained and evaluated baseline translation models on the dataset.
-        * 
+        
  - title: Artificial Intelligence Student Instructor
     company: College of Engineering Innovation Center, KNUST
     company_url: ''
