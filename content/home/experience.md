@@ -27,7 +27,7 @@ experience:
     company_url: 'https://knust.edu.gh/'
     company_logo: 
     location: Kumasi, Ghana
-    date_start: '2021-09-06'
+    date_start: '2021-10-06'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,8 +40,8 @@ experience:
     company_url: 'https://connecteddeviceslab.org/'
     company_logo: 
     location: Kumasi, Ghana
-    date_start: '2021-01-06'
-    date_end: ''
+    date_start: '2020-07-01'
+    date_end: '2020-09-31'
     description: |2-
         Responsibilities include:
         
@@ -50,14 +50,19 @@ experience:
         * I built machine learning pipelines for easy training and evaluation of models.
         * I designed, trained and evaluated baseline translation models on the dataset.
         
-  - title: Professor of Semiconductor Physics
-    company: Connected Devices Lab
-    company_url: 'https://connecteddeviceslab.org/'
+  - title: Artificial Intelligence Student Instructor
+    company: College of Engineering Innovation Center, KNUST
+    company_url: ''
     company_logo: 
     location: Kumasi, Ghana
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-11-01'
+    date_end: '2019-11-31'
+    description: |2-
+        Responsibilities include:
+        
+        * I was an instructor during a student led workshop organized by the College of Engineering Innovation Center, KNUST to introduce students to artificial             intelligence and machine learning.
+        * I led the lab sessions which taught participants how to build and train neural networks.
+        * Participants undertook a series of hands‑on exercises including training image classifiers on the CIFAR‑10 and Fashion MNIST datasets.
 
 design:
   columns: '2'
