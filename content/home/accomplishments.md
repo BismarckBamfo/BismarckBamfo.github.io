@@ -4,13 +4,13 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Academic Projects'
+title: 'Research Projects'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Neural Machine Translation on Scene Text
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
