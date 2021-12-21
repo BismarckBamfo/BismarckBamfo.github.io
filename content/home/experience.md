@@ -65,5 +65,5 @@ experience:
         * Participants undertook a series of hands‑on exercises including training image classifiers on the CIFAR‑10 and Fashion MNIST datasets.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
