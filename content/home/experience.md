@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
- - title: Research and Teaching Assistant
+  - title: Research and Teaching Assistant
     company: Department of Computer Engineering, KNUST
     company_url: 'https://knust.edu.gh/'
     company_logo: 
@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Assisting instructors in tutoring and grading the following undergraduate‑level courses; Artificial Intelligence, Programming and Problem‑Solving and             Object-Oriented Programming.
         * Currently researching effective ways of building high‑quality synthetic image datasets for training Optical Character Recognition models on low‑resource           and endangered languages to be able to digitize them.
        
@@ -60,5 +60,5 @@ experience:
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
