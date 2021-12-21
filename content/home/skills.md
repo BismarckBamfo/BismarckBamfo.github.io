@@ -25,9 +25,13 @@ feature:
   icon_pack: fas
   name: Julia
 - description: 
-  icon: camera-retro
+  icon: js-square
   icon_pack: fas
-  name: Photography
+  name: JavaScript
+- description: 
+  icon: git
+  icon_pack: fab
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
