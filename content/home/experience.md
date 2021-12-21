@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research and Teaching Assistant
     company: Department of Computer Engineering, KNUST
-    company_url: 'https://knust.edu.gh/'
+    company_url: 'https://www.knust.edu.gh/'
     company_logo: 
     location: Kumasi, Ghana
     date_start: '2021-10-06'
