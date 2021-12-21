@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Multilingual/Low-resource NLP
+- Optical Character Recognition for Digitizing Low-resource/Endangered Languages
 
 # Education to show in About widget
 education:
