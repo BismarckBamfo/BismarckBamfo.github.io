@@ -36,7 +36,7 @@ experience:
         * Currently researching effective ways of building high‑quality synthetic image datasets for training Optical Character Recognition models on low‑resource           and endangered languages to be able to digitize them.
        
   - title: Natural Language Processing, Intern
-    company: Connected Devices Lab
+    company: Connected Devices Labb
     company_url: 'https://connecteddeviceslab.org/'
     company_logo: 
     location: Kumasi, Ghana
