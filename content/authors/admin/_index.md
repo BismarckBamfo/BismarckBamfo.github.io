@@ -66,4 +66,4 @@ highlight_name: true
 
 I am Bismarck Bamfo Odoom, I recently obtained my Bachelors of Science in Computer Engineering, at the Kwame Nkrumah University of Science and Technology, Kumasi.  I am currently serving as a Research and Teaching Assistant in the Department of Computer Engineering. My research interests are in the Low-resource NLP, Multlingual NLP and in utilizing Optical Character Recognition for Digitizing Low-Resourced and Endangered Languages.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bismarck_B_Odoom_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bismarck_B_Odoom_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
