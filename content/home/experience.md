@@ -41,7 +41,7 @@ experience:
     company_logo: 
     location: Kumasi, Ghana
     date_start: '2020-07-01'
-    date_end: '2020-09-31'
+    date_end: '2020-09-30'
     description: |2-
         Responsibilities include:
         
@@ -56,7 +56,7 @@ experience:
     company_logo: 
     location: Kumasi, Ghana
     date_start: '2019-11-01'
-    date_end: '2019-11-31'
+    date_end: '2019-11-30'
     description: |2-
         Responsibilities include:
         
