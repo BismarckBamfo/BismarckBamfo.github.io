@@ -26,7 +26,7 @@ feature:
   name: Julia
 - description: 
   icon: js-square
-  icon_pack: fas
+  icon_pack: fab
   name: JavaScript
 - description: 
   icon: git
