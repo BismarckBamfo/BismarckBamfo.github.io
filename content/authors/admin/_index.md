@@ -14,7 +14,7 @@ organizations:
   url: https://www.knust.edu.gh/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in the Natural Language processing particularly, Low-resource NLP, Multlingual NLP and in utilizing Optical Character Recognition for Digitizing Low-Resourced and Endangered Languages.
 
 # Interests to show in About widget
 interests:
@@ -64,6 +64,6 @@ email: "bismarckbamfo91@gmail.com"
 highlight_name: true
 ---
 
-I am Bismarck Bamfo Odoom, I recently obtained my Bachelors of Science in Computer Engineering, at the Kwame Nkrumah University of Science and Technology, Kumasi.  I am currently serving as a Research and Teaching Assistant in the Department of Computer Engineering. My research interests are in the Low-resource NLP, Multlingual NLP and in utilizing Optical Character Recognition for Digitizing Low-Resourced and Endangered Languages.
+I am Bismarck Bamfo Odoom, I recently obtained my Bachelors of Science in Computer Engineering, at the Kwame Nkrumah University of Science and Technology, Kumasi.  I am currently serving as a Research and Teaching Assistant in the Department of Computer Engineering. My research interests are in the Natural Language processing particularly, Low-resource NLP, Multlingual NLP and in utilizing Optical Character Recognition for Digitizing Low-Resourced and Endangered Languages.
 
 {{< icon name="download" pack="fas" >}} My {{< staticref "uploads/Bismarck_B_Odoom_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
