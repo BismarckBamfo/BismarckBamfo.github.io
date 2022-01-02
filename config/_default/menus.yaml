@@ -8,17 +8,17 @@ main:
     url: '#about'
     weight: 10
   - name: Skills
-    url: '#posts'
+    url: '#skills'
     weight: 30
+  - name: Experience
+    url: '#experience'
+    weight: 40
   - name: Projects
     url: '#projects'
     weight: 65
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
-  #- name: Publications
-  #  url: '#featured'
-  #  weight: 50
   #- name: Contact
     url: '#contact'
     weight: 60
