@@ -1,6 +1,6 @@
 ---
 title: Neural Machine Translation on Scene Text
-summary: 
+summary: Capstone Project
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
