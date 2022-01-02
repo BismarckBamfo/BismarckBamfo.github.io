@@ -23,20 +23,20 @@ twitter: 'https://twitter.com/BismarckBamfo'
 email: bismarckbamfo91@gmail.com
 phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Kumasi
+  city: Kumasi
   region: CA
-  postcode: '94305'
-  country: United States
+  postcode: '00233'
+  country: Ghana
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#coordinates:
+#  latitude: '37.4275'
+#  longitude: '-122.1697'
+directions: TI Cadence Lab, 3rd floor Vodafone Building.
+#office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+#appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -50,10 +50,10 @@ contact_links:
   #  icon_pack: fab
   #  name: Chat on Keybase
   #  link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #- icon: comments
+  #  icon_pack: fas
+  # name: Discuss on Forum
+  # link: ''
 
 # Site header
 
