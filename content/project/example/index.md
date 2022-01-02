@@ -1,6 +1,6 @@
 ---
 title: Neural Machine Translation on Scene Text
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
